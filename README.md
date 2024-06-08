@@ -37,9 +37,10 @@
 ---
 
 ### ✍️  Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h2 align="center">⚡ Stats ⚡</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![](https://github-readme-stats.vercel.app/api?username=hishaam6618&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hishaam6618&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hishaam6618&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
