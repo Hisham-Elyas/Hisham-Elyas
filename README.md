@@ -39,11 +39,18 @@
 ### ✍️  Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# 📊 GitHub Stats:
+<h2 align="center">⚡ Stats ⚡</h2>
 ![](https://github-readme-stats.vercel.app/api?username=hishaam6618&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hishaam6618&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hishaam6618&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hishaam6618&limit=5&theme=dark&combine_all_yearly_contributions=true)
