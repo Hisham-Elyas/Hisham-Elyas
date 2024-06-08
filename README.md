@@ -25,9 +25,9 @@
 
 
 
-
-<div align="center">
+ <br>
 <h2 align="center">🌐 Socials</h2>
+<div align="center">
 <a href="https://linkedin.com/in/hishaam-elyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hishaam-elyas" height="30" width="40" /></a>
 <a href="https://fb.com/hishaam.elyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hishaam.elyas" height="30" width="40" /></a>
 <a href="https://instagram.com/hisham_elyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hisham_elyas" height="30" width="40" /></a>
