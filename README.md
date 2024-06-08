@@ -20,8 +20,6 @@
 - 🤓 `Always learning new things`
   
 - 📫 How to reach me **hishaam.elyas@gmail.com**
-
-- ⚡ Fun fact I am Funny
   
 - ☕ I believe, a perfect cup of coffee can be the ultimate solution to any stress
 
