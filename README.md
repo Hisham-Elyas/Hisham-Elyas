@@ -8,10 +8,10 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🏫 Computer Science graduate.
+- 🏫 Computer Science graduate
 - 🔭 I’m currently working on **Vexa Web App**
-- 💻 I'm majoring in computer science.<br>
-- 👨‍💻 I love using Software as a solution for every `Problem`.<br>
+- 💻 I'm majoring in computer science
+- 👨‍💻 I love using Software as a solution for every `Problem`
 - 🤔 I’m currently open for a `full-time opportunity`.<br>
 - 🤓 `Always learning new things`.<br>
 - 📫 How to reach me **hishaam.elyas@gmail.com**<br>
