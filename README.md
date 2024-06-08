@@ -24,9 +24,9 @@
 - ☕ I believe, a perfect cup of coffee can be the ultimate solution to any stress
 
 ## 🌐 Socials:
-<p align="left">
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HISHAAM_ELYAS) 
-<a href="https://x.com/HISHAAM_ELYAS" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="hishaam_elyas" height="30" width="40" /></a>
+<p align="left">
+<a href="https://x.com/HISHAAM_ELYAS" target="blank"><img align="center" src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="hishaam_elyas"  /></a>
 <a href="https://linkedin.com/in/hishaam-elyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hishaam-elyas" height="30" width="40" /></a>
 <a href="https://fb.com/hishaam.elyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hishaam.elyas" height="30" width="40" /></a>
 <a href="https://instagram.com/hisham_elyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hisham_elyas" height="30" width="40" /></a>
