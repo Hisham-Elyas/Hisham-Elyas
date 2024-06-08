@@ -19,7 +19,7 @@
 
 - 🤓 `Always learning new things`
   
-- 📫 How to reach me **hishaam.elyas@gmail.com**[hishaam.elyas@gmail.com](mailto:hishaam.elyas@gmail.com)
+- 📫 How to reach me **hishaam.elyas@gmail.com**
   
 - ☕ I believe, a perfect cup of coffee can be the ultimate solution to any stress
 
