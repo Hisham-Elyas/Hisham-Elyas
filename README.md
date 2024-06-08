@@ -1,4 +1,11 @@
+<h1 align="center">Hi , I'm HISHAM ELYAS <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=22&duration=3000&pause=1000&color=1A84F7&center=true&vCenter=true&random=true&width=435&lines=Flutter+Developer+;Computer+Science+Graduate+;Always+Learning+New+Things;Software+Engineer" alt="Typing SVG" /></a>
+</p>
+
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 🏫 Computer Science graduate.<br>💻 I'm majoring in computer science.<br>👨‍💻 I love using Software as a solution for every Problem.<br>🤔 I’m currently open for a full-time opportunity.<br>🤓 Always learning new things.<br>📫 How to reach me hishaam.elyas@gmail.com<br>☕ I believe, a perfect cup of coffee can be the ultimate solution to any stress.<br>⚡ Fun fact I am Funny
 
 
@@ -24,4 +31,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hishaam6618&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hishaam6618&bg_color=000000&color=ffffff&line=42db24&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
