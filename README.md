@@ -9,14 +9,22 @@
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🏫 Computer Science graduate
+
 - 🔭 I’m currently working on **Vexa Web App**
+  
 - 💻 I'm majoring in computer science
+  
 - 👨‍💻 I love using Software as a solution for every `Problem`
-- 🤔 I’m currently open for a `full-time opportunity`.<br>
-- 🤓 `Always learning new things`.<br>
-- 📫 How to reach me **hishaam.elyas@gmail.com**<br>
-- ⚡ Fun fact I am Funny<br>
-- ☕ I believe, a perfect cup of coffee can be the ultimate solution to any stress.
+  
+- 🤔 I’m currently open for a `full-time opportunity`
+
+- 🤓 `Always learning new things`
+  
+- 📫 How to reach me **hishaam.elyas@gmail.com**
+
+- ⚡ Fun fact I am Funny
+  
+- ☕ I believe, a perfect cup of coffee can be the ultimate solution to any stress
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hishaam.Elyas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hisham_Elyas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HISHAAM_ELYAS) 
