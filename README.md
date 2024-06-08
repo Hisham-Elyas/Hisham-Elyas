@@ -24,7 +24,7 @@
 - ☕ I believe, a perfect cup of coffee can be the ultimate solution to any stress
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Hishaam.Elyas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Hisham_Elyas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HISHAAM_ELYAS) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HISHAAM_ELYAS) 
 <p align="left">
 <a href="https://twitter.com/hishaam_elyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hishaam_elyas" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hishaam-elyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hishaam-elyas" height="30" width="40" /></a>
