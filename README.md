@@ -4,7 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=22&duration=3000&pause=1000&color=1A84F7&center=true&vCenter=true&random=true&width=435&lines=Flutter+Developer+;Computer+Science+Graduate+;Always+Learning+New+Things;Software+Engineer" alt="Typing SVG" /></a>
 </p>
 
-  [![](https://visitcount.itsvg.in/api?id=hishaam6618&icon=0&color=0)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Hishaam-Elyas&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
